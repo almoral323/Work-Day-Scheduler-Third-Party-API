@@ -1,6 +1,6 @@
 ## Third-Party APIs : Work Day Scheduler
 
-[Link to Application]()
+[Link to Application](https://almoral323.github.io/Work-Day-Scheduler-Third-Party-API/)
 
 ## License
 ~
@@ -47,3 +47,6 @@ THEN the saved events persist
 ```
 
 ### Application Screenshot Preview
+![Screenshot 2023-03-08 023747](https://user-images.githubusercontent.com/113931387/223650957-6f830a39-577d-402d-90d8-f3910195bd3e.png)
+
+![Screenshot 2023-03-08 023813](https://user-images.githubusercontent.com/113931387/223650983-58e382c4-6bba-4c21-ab76-8253a4dceb71.png)
