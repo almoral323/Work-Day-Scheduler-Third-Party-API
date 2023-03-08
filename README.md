@@ -1,6 +1,6 @@
 ## Third-Party APIs : Work Day Scheduler
 
-[Link to Github]()
+[Link to Application]()
 
 ## License
 ~
